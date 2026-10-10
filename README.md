@@ -9,12 +9,13 @@
 | 文章 | 总结 | 关键词 |
 | ---- | ---- | ---- |
 | [跨域](./跨域.md) | 浏览器同源策略的本质，与从 `@CrossOrigin` 到网关统一 CORS、Nginx 同源部署的四阶段演进 | CORS / 预检请求 / Spring Cloud Gateway / Nginx 反向代理 |
+| [从代理到 AOP](./从代理到AOP.md) | 代理是手段、AOP 是目的，JDK 动态代理与 CGLIB 的完整示例，附带 MethodProxy 的 FastClass 原理 | JDK 动态代理 / CGLIB / Spring AOP / 反射 |
 
 > 持续更新中，下一篇在路上。
 
 ## 🛠️ 覆盖领域
 
-`Java 后端` `Spring Boot` `Spring Cloud Gateway` `Redis` `Nginx` `跨域 / CORS` `微服务` `前后端分离` `Web 安全机制` `反向代理`
+`Java 后端` `Spring Boot` `Spring AOP` `JDK 动态代理 / CGLIB` `反射` `Spring Cloud Gateway` `Redis` `Nginx` `跨域 / CORS` `微服务` `前后端分离` `反向代理`
 
 ## 📖 关于内容
 
